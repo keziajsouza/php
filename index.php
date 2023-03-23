@@ -1,3 +1,5 @@
 <?php
-echo "oiiiii"
->
+    echo "Olá, tenho ";
+    echo 22;
+    echo " anos.";
+?>
